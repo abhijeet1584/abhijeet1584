@@ -1,8 +1,7 @@
 ## Abhijeet Kumar
 ### A noob coder
-#### I Do programming for fun, Nothing serious
 
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
+<img src="https://dz2cdn1.dzone.com/storage/temp/12334613-971.jpg">
 
 <!--
 **abhijeet1584/abhijeet1584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
